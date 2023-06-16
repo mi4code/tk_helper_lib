@@ -1,0 +1,2 @@
+# tk_helper_lib
+Python module that allows you to create basic tkinter window dialogue in just few lines of code. (This means that this doesnt implement anything like widget location or color.) I hope you find this module usefull.
